@@ -12,7 +12,7 @@
             --accent: #00d4ff;
             --light: #f6f9fc;
             --dark: #1a1a1a;
-            --gray: #7a7a7a;
+            --pink: #7a7a7a;
             --success: #28a745;
         }
 
